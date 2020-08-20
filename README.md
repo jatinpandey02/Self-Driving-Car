@@ -14,4 +14,4 @@ https://github.com/SullyChen/driving-datasets (Links provided on this github pag
 The model was a convolutional neural network with a few Dense layer at the end. 'Relu" activation layer was used at all layers except the last one where 'tanh' was used as the model would have to predict both negative and positive values of steering angle. 
 
 # Final results
-
+![](selfdrivingcar.gif)
